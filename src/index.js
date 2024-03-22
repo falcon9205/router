@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import { BrowserRouter, RouterProvider, createBrowserRouter, createRoutesFromElements,Route } from 'react-router-dom';
 import Layout from './Layout';
 import Home from './Components/Home/Home';
